@@ -18,5 +18,6 @@
 0. Après qu'une proposition soit faite, tous les joueurs doivent voter soit *OUI*, soit *NON*, soit *BLANC* dans les commentaires du *pull request*.
   0. Si tous les joueurs ont voté et que le nombre de voix pour le *OUI* est strictement suppérieur au nombre de voix pour le *NON*, alors la proposition est acceptée et devient partie intégrante des règles.
   0. Les joueurs n'ayant pas voté sept jours après la proposition votent *BLANC*.
-0. Le joueur qui vent la princesse a gagné la partie.
+0. Le tour de jeu d'un joueur prend fin au maximum sept jours après le début de celui-ci.
 0. Un utilisateur de GitHub peut rejoindre la partie en inscrivant son nom dans le fichier [joueurs.md](../joueurs.md). L'hôte décidera si le joueur est accepté ou non.
+0. Le joueur qui vent la princesse a gagné la partie.

@@ -9,7 +9,7 @@ Le Nomic est un jeu créé par [Peter Suber](http://cyber.law.harvard.edu/~psube
 Cette partie ne reprend pas les [règles originelles](http://legacy.earlham.edu/~peters/writing/nomic.htm#initial%20set) de Peter Suber. Elles sont complexes et manquent de clarté. Au lieu de cela, un jeu de règles simplifé a été créé. Il est bien sûr facile de le modifier afin d'en faire quelque chose d'autre.
 
 Deux documents sont très importants :
-- Les [Lois](lois.md) sont des règles immuables et éternelles, au-dessus de toute autre partie du jeu. Leur but est de sécuriser la partie afin d'éviter les déviances.
+- Les [Lois](Lois.md) sont des règles immuables et éternelles, au-dessus de toute autre partie du jeu. Leur but est de sécuriser la partie afin d'éviter les déviances.
 - Les [Règles](regles/regles.md) sont la partie mouvante du jeu. Chacun se doit de les respecter, mais ce qui déplait peut être modifié.
 
 ## Comment participer ?

@@ -14,6 +14,7 @@
     0. Une proposition de création d'un nouveau point de règle.
     0. Une proposition de modification d'un point de règle existant.
     0. Une proposition de suppression d'un point de règle existant.
+    0. Une proposition de déplacement d'un point de règle ou sous-point de règle à un autre endroit des règles.
 0. Une proposition est soumise sous la forme d'un *pull request*.
 0. Après qu'une proposition soit faite, tous les joueurs doivent voter soit *OUI*, soit *NON*, soit *BLANC* dans les commentaires du *pull request*.
   0. Si tous les joueurs ont voté et que le nombre de voix pour le *OUI* est strictement suppérieur au nombre de voix pour le *NON*, alors la proposition est acceptée et devient partie intégrante des règles.

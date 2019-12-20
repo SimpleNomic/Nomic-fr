@@ -14,9 +14,10 @@
         1. Une proposition de création d'un nouveau point de règle.
         1. Une proposition de modification d'un point de règle existant.
         1. Une proposition de suppression d'un point de règle existant.
+        1. Une proposition de déplacement d'un point de règle ou sous-point de règle à un autre endroit des règles.
 1. Une proposition est soumise sous la forme d'un *pull request*.
 1. Après qu'une proposition soit faite, tous les joueurs doivent voter soit *OUI*, soit *NON*, soit *BLANC* dans les commentaires du *pull request*.
-    1. Si tous les joueurs ont voté et que le nombre de voix pour le *OUI* est strictement suppérieur au nombre de voix pour le *NON*, alors la proposition est acceptée et devient partie intégrante des règles.
+    1. Si tous les joueurs ont voté et que le nombre de voix pour le *OUI* est strictement supérieur au nombre de voix pour le *NON*, alors la proposition est acceptée et devient partie intégrante des règles.
     1. Les joueurs n'ayant pas voté sept jours après la proposition votent *BLANC*.
 1. Le tour de jeu d'un joueur prend fin au maximum sept jours après le début de celui-ci.
 1. Un utilisateur de GitHub peut rejoindre ou quitter la partie en inscrivant, respectivement retirant son nom dans le fichier [joueurs.md](../joueurs.md). L'hôte décidera si un nouveau joueur est accepté ou non.
